@@ -16,4 +16,6 @@ elif task=="/":
 else:
     print("Invalid operation. Choose +, -, *, or /.")
 
+print("This code can calculate simple arithmetic operations")
+
 
